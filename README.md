@@ -21,5 +21,7 @@ Initialized a virtual machine on Azure and configure Microsoft firewall settings
 <img src="failed_requests_by_ip_by_country.png">
 
 <h2>Geolocated IP log file:</h2>
-I've added my IPgeo log file for anyone who wants to mess around with the log data as well :)
-<a href="https://github.com/LGTJackson/Azure-Honeypot/edit/main/failed_rdp.log">
+
+I've added my IPgeo log file for anyone who wants to mess around with the log data as well
+
+[Log file](https://github.com/LGTJackson/Azure-Honeypot/edit/main/failed_rdp.log)
