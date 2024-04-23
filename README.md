@@ -1,5 +1,5 @@
 <h2>Goals:</h2>
-- Gain more hands-on experience with:
+Gain more hands-on experience with:
 
 	- Azure
 	- Firewall Configuration
@@ -16,8 +16,9 @@ Initialized a virtual machine on Azure and configure Microsoft firewall settings
 [<img src="IMG_5120.mov">](https://github.com/LGTJackson/Azure-Honeypot/blob/main/IMG_5120.mov)
 
 
-<h2>Bubble Map:</h2>
+<h2>Bubble Maps:</h2>
 <img src="requests_by_country.png">
+<img src="failed_requests_by_ip_by_country.png">
 
 <h2>Geolocated IP log file:</h2>
 ![[failed_rdp.log]]
