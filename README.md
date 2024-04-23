@@ -1,5 +1,6 @@
 <h2>Goals:</h2>
 - Gain more hands-on experience with:
+
 	- Azure
 	- Firewall Configuration
 	- Log analysis
