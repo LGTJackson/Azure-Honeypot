@@ -1,5 +1,4 @@
 <h1>The Following is the script used for analyzing the event logs.</h1>
-``` Powershell
 # API key from: https://ipgeolocation.io/
 $API_KEY      = "########"
 $LOGFILE_NAME = "failed_rdp.log"
